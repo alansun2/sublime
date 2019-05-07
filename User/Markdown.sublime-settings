@@ -1,0 +1,8 @@
+{
+		"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Focus.tmTheme",
+		"draw_centered": false,
+			"wrap_width": 250,
+			// Line
+	"line_numbers": true,
+	"highlight_line": true,
+}
